@@ -2,8 +2,6 @@
 
 This is an AI-powered IPL match predictor web application that uses machine learning to forecast the winning team based on team combinations, venue, and recent match performance. 
 It includes a FastAPI backend and a React-based frontend interface.
-## Demo
-![image](https://github.com/user-attachments/assets/0b80e5d8-e14c-47fe-a9bb-1f16b763ec3c)
 
 ## Features
 - Predicts IPL match outcomes based on input team names, venue, and recent performance.
